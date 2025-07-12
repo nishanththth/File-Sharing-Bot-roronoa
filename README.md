@@ -1,4 +1,4 @@
-# File-Sharing-Bot
+# File-sharing-Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -61,7 +61,7 @@ We encourage all developers to contribute ideas, report bugs, and share improvem
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://github.com/nishanththth/File-Sharing-Bot-roronoa)">
+<a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
@@ -75,7 +75,7 @@ We encourage all developers to contribute ideas, report bugs, and share improvem
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/nishanththth/File-Sharing-Bot-roronoa)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
 
 
 #### Deploy in your VPS
@@ -166,6 +166,7 @@ Report Bugs, Give Feature Requests There..
 [FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+  
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
