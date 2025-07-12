@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/nishanththth/File-Sharing-Bot-roronoa",
+  "repository": "github.com/CodeXBotz/File-Sharing-bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
